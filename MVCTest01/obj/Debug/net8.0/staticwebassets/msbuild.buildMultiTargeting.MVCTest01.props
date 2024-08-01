@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVCTest01.props" />
+</Project>
