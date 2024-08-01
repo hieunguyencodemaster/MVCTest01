@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Web API\\MVCTest01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{792D6156-DBF6-4036-B939-869250E12C46}|MVCTest01\\MVCTest01.csproj|d:\\web api\\mvctest01\\mvctest01\\mvctest01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{792D6156-DBF6-4036-B939-869250E12C46}|MVCTest01\\MVCTest01.csproj|solutionrelative:mvctest01\\mvctest01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{792D6156-DBF6-4036-B939-869250E12C46}|MVCTest01\\MVCTest01.csproj|d:\\web api\\mvctest01\\mvctest01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{792D6156-DBF6-4036-B939-869250E12C46}|MVCTest01\\MVCTest01.csproj|solutionrelative:mvctest01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MVCTest01",
+              "DocumentMoniker": "D:\\Web API\\MVCTest01\\MVCTest01\\MVCTest01.csproj",
+              "RelativeDocumentMoniker": "MVCTest01\\MVCTest01.csproj",
+              "ToolTip": "D:\\Web API\\MVCTest01\\MVCTest01\\MVCTest01.csproj",
+              "RelativeToolTip": "MVCTest01\\MVCTest01.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T21:41:42.661Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
@@ -34,13 +51,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Web API\\MVCTest01\\MVCTest01\\Program.cs",
               "RelativeDocumentMoniker": "MVCTest01\\Program.cs",
               "ToolTip": "D:\\Web API\\MVCTest01\\MVCTest01\\Program.cs",
               "RelativeToolTip": "MVCTest01\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T21:12:59.434Z",
               "EditorCaption": ""
